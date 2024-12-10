@@ -4,7 +4,7 @@
     <br />
     <br />
     <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="and again - change it Docusaurus">
     </a>
   </h1>
 </div>
